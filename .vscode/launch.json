@@ -33,8 +33,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/web eng github clone/Cpp-Codes",
-      "program": "d:/web eng github clone/Cpp-Codes/build/Debug/outDebug",
+      "cwd": "d:/web eng github clone/Cpp-Codes-1/leetcode",
+      "program": "d:/web eng github clone/Cpp-Codes-1/leetcode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
